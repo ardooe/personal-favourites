@@ -8,7 +8,7 @@ List of personal favourites (libraries, frameworks, etc.). :lock: = HTTPS link.
 
 ## Frameworks & APIs
 
-* [Keras](https://keras.io) High-level neural networks API for Python. Fast experimentation and user friendly, runs on top of TensorFlow, CNTK or Theano.
+* [Keras](https://keras.io) :lock: - High-level neural networks API for Python. Fast experimentation and user friendly, runs on top of TensorFlow, CNTK or Theano.
 
 * [Play Framework](https://playframework.com/) :lock: - High Velocity Web Framework. Java and Scala, quite straightforward for RESTful services & web
 
