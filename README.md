@@ -4,9 +4,11 @@ List of personal favourites (libraries, frameworks, etc.). :lock: = HTTPS link.
 
 ## Databases
 
-...
+* [Apache Cassandra](https://cassandra.apache.org/) :lock: - Distributed NoSQL database. Easy to configure across several machines.
 
-## Frameworks
+## Frameworks & APIs
+
+* [Keras](https://keras.io) High-level neural networks API for Python. Fast experimentation and user friendly, runs on top of TensorFlow, CNTK or Theano.
 
 * [Play Framework](https://playframework.com/) :lock: - High Velocity Web Framework. Java and Scala, quite straightforward for RESTful services & web
 
