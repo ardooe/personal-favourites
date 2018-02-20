@@ -22,6 +22,7 @@ List of personal favourites (libraries, frameworks, etc.). :lock: = HTTPS link.
 
 * [HikariCP](https://brettwooldridge.github.io/HikariCP/) :lock: - Well configurable, fast JDBC connection pool
 * [Sql2o](https://www.sql2o.org/) :lock: - Easy, fast SQL to object for Java. You can build your own ORM around this library.
+* [Three.js](https://threejs.org) :lock: - 3D library for JavaScript. Easy to work with after initial head scratching.
 
 ## Tools
 
