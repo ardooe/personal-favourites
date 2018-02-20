@@ -22,3 +22,7 @@ List of personal favourites (libraries, frameworks, etc.). :lock: = HTTPS link.
 
 * [HikariCP](https://brettwooldridge.github.io/HikariCP/) :lock: - Well configurable, fast JDBC connection pool
 * [Sql2o](https://www.sql2o.org/) :lock: - Easy, fast SQL to object for Java. You can build your own ORM around this library.
+
+## Tools
+
+* [Emmet](https://emmet.io) :lock: - Toolkit for Web developers, HTML generator. Essential, use it.
