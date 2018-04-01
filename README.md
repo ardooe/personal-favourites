@@ -30,3 +30,4 @@ List of personal favourites (libraries, frameworks, etc.).
 ## Tools
 
 * [Emmet](https://emmet.io) - Toolkit for Web developers, HTML generator. Essential, use it.
+* [nvm](https://github.com/creationix/nvm) - Node.js Version Manager
