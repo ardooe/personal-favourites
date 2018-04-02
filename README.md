@@ -10,6 +10,8 @@ List of personal favourites (libraries, frameworks, etc.).
 
 * [Keras](https://keras.io) - High-level neural networks API for Python. Fast experimentation and user friendly, runs on top of TensorFlow, CNTK or Theano.
 
+* [NativeScript](https://nativescript.org) - Build native mobile apps with Angular (TypeScript or JavaScript)
+
 * [Play Framework](https://playframework.com/) - High Velocity Web Framework. Java and Scala, quite straightforward for RESTful services & web
 
 * [Ratpack](https://ratpack.io/) - A modern micro framework for Java. Scalable and non-blocking, runs on [Netty](http://netty.io/).
