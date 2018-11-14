@@ -9,17 +9,11 @@ List of personal favourites (libraries, frameworks, etc.).
 ## Frameworks & APIs
 
 * [Keras](https://keras.io) - High-level neural networks API for Python. Fast experimentation and user friendly, runs on top of TensorFlow, CNTK or Theano.
-
+* [Micronaut](http://micronaut.io/) - Modern JVM-based full stack framework
 * [NativeScript](https://nativescript.org) - Build native mobile apps with Angular (TypeScript or JavaScript)
-
 * [Play Framework](https://playframework.com/) - High Velocity Web Framework. Java and Scala, quite straightforward for RESTful services & web
-
 * [Ratpack](https://ratpack.io/) - A modern micro framework for Java. Scalable and non-blocking, runs on [Netty](http://netty.io/).
-
 * [Spark Framework](http://sparkjava.com) - A micro framework for Java 8. What I like about it is that you get a working web app fast without much configuration.
-
-* [Spring Framework](https://spring.io) - Old but gold. I have new found love for this beast, it keeps evolving.
-
 * [Vert.x](http://vertx.io/) - A tool-kit for building asynchronous, reactive fast applications on the JVM. Easy to grasp, good for microservices.
 
 ## Libraries
