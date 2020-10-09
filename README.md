@@ -2,28 +2,19 @@
 
 List of personal favourites (libraries, frameworks, etc.).
 
-## Databases
-
-* [Apache Cassandra](https://cassandra.apache.org/) - Distributed NoSQL database. Easy to configure across several machines.
-
 ## Frameworks & APIs
 
 * [Keras](https://keras.io) - High-level neural networks API for Python. Fast experimentation and user friendly, runs on top of TensorFlow, CNTK or Theano.
-* [Micronaut](http://micronaut.io/) - Modern JVM-based full stack framework
-* [NativeScript](https://nativescript.org) - Build native mobile apps with Angular (TypeScript or JavaScript)
-* [Play Framework](https://playframework.com/) - High Velocity Web Framework. Java and Scala, quite straightforward for RESTful services & web
-* [Ratpack](https://ratpack.io/) - A modern micro framework for Java. Scalable and non-blocking, runs on [Netty](http://netty.io/).
-* [Spark Framework](http://sparkjava.com) - A micro framework for Java 8. What I like about it is that you get a working web app fast without much configuration.
-* [Vert.x](http://vertx.io/) - A tool-kit for building asynchronous, reactive fast applications on the JVM. Easy to grasp, good for microservices.
+* [Spark Framework](http://sparkjava.com) - A micro framework for Java/Kotlin. What I like about it is that you get a working web app fast without much configuration. I have done multiple APIs in production with this one.
 
 ## Libraries
 
 * [D3.js](https://d3js.org) - Manipulate documents based on data. DataViz or anything you can think of.
-* [HikariCP](https://brettwooldridge.github.io/HikariCP/) - Well configurable, fast JDBC connection pool
-* [Sql2o](https://www.sql2o.org/) - Easy, fast SQL to object for Java. You can build your own ORM around this library.
+* [HikariCP](https://brettwooldridge.github.io/HikariCP/) - Well configurable, fast JDBC connection pool, I always use this if I need a connection pool for Java-based stuff.
+* [Sql2o](https://www.sql2o.org/) - Easy, fast SQL to object for Java. You can build your own ORM around this library (not that you should).
 * [Three.js](https://threejs.org) - 3D library for JavaScript. Easy to work with after initial head scratching.
 
 ## Tools
 
-* [Emmet](https://emmet.io) - Toolkit for Web developers, HTML generator. Essential, use it.
-* [nvm](https://github.com/creationix/nvm) - Node.js Version Manager
+* [Emmet](https://emmet.io) - Toolkit for Web developers, HTML generator. Essential, use it. Built in with VSCode
+* [nvm](https://github.com/creationix/nvm) - Node.js Version Manager, can't really live without this.
