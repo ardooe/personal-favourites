@@ -16,6 +16,6 @@ List of personal favourites (libraries, frameworks, etc.).
 
 ## Tools
 
+* [atillery](https://github.com/artilleryio/artillery) - Performance testing tool for web apps, easy to configure.
 * [asdf](https://asdf-vm.com/) - Version manager for multiple tools and frameworks, Node.js, Java, etc. Highly recommended!
-* [Emmet](https://emmet.io) - Toolkit for Web developers, HTML generator. Essential, use it. Built in with VSCode
-
+* [Emmet](https://emmet.io) - Toolkit for Web developers, HTML generator. Essential, use it. Built in with VSCode.
