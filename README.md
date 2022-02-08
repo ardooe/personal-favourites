@@ -11,7 +11,7 @@ List of personal favourites (libraries, frameworks, etc.).
 
 * [Chalk](https://github.com/chalk/chalk) - Terminal styling. I use this when creating command line tools.
 * [D3.js](https://d3js.org) - Manipulate documents based on data. DataViz or anything you can think of.
-* [HikariCP](https://brettwooldridge.github.io/HikariCP/) - Well configurable, fast JDBC connection pool, I always use this if I need a connection pool for Java-based stuff.
+* [HikariCP](https://github.com/brettwooldridge/HikariCP) - Well configurable, fast JDBC connection pool, I always use this if I need a connection pool for Java-based stuff.
 * [Three.js](https://threejs.org) - 3D library for JavaScript. Easy to work with after the initial head scratching. I did some warehouse demoing with this one.
 
 ## Tools
